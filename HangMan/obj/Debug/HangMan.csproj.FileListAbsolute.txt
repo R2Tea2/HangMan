@@ -1,0 +1,9 @@
+C:\Users\Apinaash\Desktop\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\Apinaash\Desktop\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\Apinaash\Desktop\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\Apinaash\Desktop\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\Users\Apinaash\Desktop\HangMan\HangMan\obj\Debug\HangMan.FormHang.resources
+C:\Users\Apinaash\Desktop\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\Apinaash\Desktop\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.Cache
+C:\Users\Apinaash\Desktop\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\Apinaash\Desktop\HangMan\HangMan\obj\Debug\HangMan.pdb
