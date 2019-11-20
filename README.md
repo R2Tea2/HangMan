@@ -1,3 +1,2 @@
 # HangMan
-Grade 11 project
-Visual Studio C# based project
+Grade 11 Visual Studio C# based project
